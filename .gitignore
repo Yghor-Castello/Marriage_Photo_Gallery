@@ -8,8 +8,8 @@
 
 *.pyc
 
-# dotenv environment variables file
-.env
+# # dotenv environment variables file
+# .env
 
 # Mac files
 .DS_Store
@@ -59,7 +59,7 @@ celerybeat-schedule
 celerybeat.pid
 
 # Environments
-.env
+# .env
 .venv
 env/
 venv/
