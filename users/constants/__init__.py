@@ -1,0 +1,1 @@
+from users.constants.userType import USER_TYPE

@@ -1,0 +1,5 @@
+from casamento.serializers.serializers_comment import CommentSerializer
+from casamento.serializers.serializers_gallery import GallerySerializer
+from casamento.serializers.serializers_like import LikeSerializer
+from casamento.serializers.serializers_photo import PhotoSerializer
+from casamento.serializers.serializers_userupload import UserUploadSerializer
